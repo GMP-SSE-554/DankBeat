@@ -1,0 +1,15 @@
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\bin\Debug\DankBeat.exe.config
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\bin\Debug\DankBeat.exe
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\bin\Debug\DankBeat.pdb
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\DankBeat.csprojResolveAssemblyReference.cache
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\MainWindow.baml
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\MainWindow.g.cs
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\App.g.cs
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\DankBeat_MarkupCompile.cache
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\DankBeat.g.resources
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\DankBeat.Properties.Resources.resources
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\DankBeat.csproj.GenerateResource.cache
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\DankBeat.csproj.CoreCompileInputs.cache
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\DankBeat.exe
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\DankBeat.pdb
+C:\Users\Tad McCorkle\Desktop\Coding Electronics\Repositories\DankBeat\DankBeat\obj\Debug\DankBeat_Content.g.cs
